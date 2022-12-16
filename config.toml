@@ -55,7 +55,7 @@ hasCJKLanguage = false
 
 [params]
   defaultTheme = "auto"
-  gitRepo = ""
+  gitRepo = "https://github.com/ricky9667/ricky-hu-blog/"
   fingerprint = ""
   dateFormat = "2006-01-02"
   title = "Ricky's Blog"

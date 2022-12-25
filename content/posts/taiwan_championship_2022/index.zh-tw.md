@@ -50,6 +50,8 @@ tags: ['activity', 'cubing']
 
 另外要特別感謝 [Wayne Pi](https://www.worldcubeassociation.org/persons/2017PIWA01) 近期教我很多 Mega 的小技巧，而且方塊也是跟他借的，站在巨人的肩膀上真的進步比較快(?
 
+[Megaminx Round 1 Average: 1:21.63](https://youtu.be/bGw5-ViJ_7k)
+
 ### 3x3 OH
 
 單手完全不在狀態，一直被騰雲的容錯卡到。我懷疑是之前的單次 10.29 詛咒我平均永遠刷不掉QQQQ

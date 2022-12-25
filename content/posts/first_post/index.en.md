@@ -6,8 +6,6 @@ categories: ['Programming']
 tags: ['life', 'programming']
 ---
 
-# Welcome
-
 Welcome to my blog!
 
 This is just a post that makes my blog feel like there is something here.

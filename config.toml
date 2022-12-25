@@ -7,7 +7,6 @@ title = "Ricky Hu"
 defaultContentLanguage = "en"
 languageCode = "en"
 languageName = "English"
-
 hasCJKLanguage = false
 
 [author]
@@ -73,7 +72,7 @@ hasCJKLanguage = false
       typeit = false
 
   [params.app]
-    title = "My cool site"
+    title = "Ricky Hu"
     noFavicon = false
     svgFavicon = "https://cdn-icons-png.flaticon.com/512/6062/6062646.png"
     themeColor = "#ffffff"
@@ -119,3 +118,15 @@ hasCJKLanguage = false
       index = ""
       appID = ""
       searchKey = ""
+
+[languages]
+  [languages.en]
+    weight = 1
+    languageCode = "en"
+    languageName = "English"
+    hasCJKLanguage = false
+  [languages.zh-tw]
+    weight = 2
+    languageCode = "zh-TW"
+    languageName = "繁體中文"
+    hasCJKLanguage = true

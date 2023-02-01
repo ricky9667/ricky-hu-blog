@@ -5,7 +5,7 @@ categories: ['Travel']
 tags: ['activity', 'life', 'japan']
 ---
 
-*Currently this post is not translated in English.*
+*Currently this post is not translated into English.*
 
 本來想每天都發一篇部落格文章，但發現太耗工了，也很難把詳細的事情寫到很仔細。所以還是把文章濃縮一點好了XD
 

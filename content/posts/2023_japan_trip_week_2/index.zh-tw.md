@@ -5,8 +5,6 @@ categories: ['Travel']
 tags: ['activity', 'life', 'japan']
 ---
 
-*Currently this post is not translated in English.*
-
 ## Day 8 (1/25)
 
 ### 鎌倉 Kamakura

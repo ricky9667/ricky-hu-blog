@@ -1,8 +1,10 @@
 ---
 title: "About me"
 date: 2022-10-15T20:50:03+08:00
-draft: false
+lastmod: 2023-02-01T22:00:00+08:00
 ---
+
+![image](https://ik.imagekit.io/pxhytijjnsj/tr:w-1600/Blog/about_me_banner_-v7NF61EY.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675258474857)
 
 Hi, I'm Ricky.
 
@@ -45,6 +47,3 @@ An ordinary person that is eager to contribute others.
 - Github - [ricky9667](https://github.com/ricky9667)
 - LinkedIn - [ricky9667](https://www.linkedin.com/in/ricky9667/)
 - WCA - [2015HUSH02](https://worldcubeassociation.org/persons/2015HUSH02)
-
----
-*Last updated at 2022.10.19*
